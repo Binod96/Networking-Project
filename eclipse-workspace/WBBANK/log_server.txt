@@ -1,0 +1,296 @@
+Command: w 4
+Thread Thread-0 is requiring to acquire lock
+Withdraw by A
+Thread  is requiring to acquire lock
+Command: d 6
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: d 19
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: d 18
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: d 14
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: d 12
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: d 6
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: t 3 B
+Thread Thread-0 is requiring to acquire lock
+Transfer from A to B
+Thread  is requiring to acquire lock
+Command: w 15
+Thread Thread-0 is requiring to acquire lock
+Withdraw by A
+Thread  is requiring to acquire lock
+Command: d 10
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: t 18 C
+Thread Thread-0 is requiring to acquire lock
+Transfer from A to C
+Thread  is requiring to acquire lock
+Command: d 12
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: t 10 B
+Thread Thread-0 is requiring to acquire lock
+Transfer from A to B
+Thread  is requiring to acquire lock
+Command: t 19 B
+Thread Thread-0 is requiring to acquire lock
+Transfer from A to B
+Thread  is requiring to acquire lock
+Command: w 9
+Thread Thread-0 is requiring to acquire lock
+Withdraw by A
+Thread  is requiring to acquire lock
+Command: w 19
+Thread Thread-0 is requiring to acquire lock
+Withdraw by A
+Thread  is requiring to acquire lock
+Command: d 19
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: d 15
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: w 8
+Thread Thread-0 is requiring to acquire lock
+Withdraw by A
+Thread  is requiring to acquire lock
+Command: w 12
+Thread Thread-0 is requiring to acquire lock
+Withdraw by A
+Thread  is requiring to acquire lock
+Command: w 8
+Thread Thread-0 is requiring to acquire lock
+Withdraw by A
+Thread  is requiring to acquire lock
+Command: d 5
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: d 2
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: d 8
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: d 19
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: d 8
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: d 18
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: d 1
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: d 13
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: t 2 B
+Thread Thread-0 is requiring to acquire lock
+Transfer from A to B
+Thread  is requiring to acquire lock
+Command: t 15 B
+Thread Thread-0 is requiring to acquire lock
+Transfer from A to B
+Thread  is requiring to acquire lock
+Command: w 2
+Thread Thread-0 is requiring to acquire lock
+Withdraw by A
+Thread  is requiring to acquire lock
+Command: d 13
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: t 3 B
+Thread Thread-0 is requiring to acquire lock
+Transfer from A to B
+Thread  is requiring to acquire lock
+Command: d 16
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: t 4 B
+Thread Thread-0 is requiring to acquire lock
+Transfer from A to B
+Thread  is requiring to acquire lock
+Command: d 4
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: d 7
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: t 3 C
+Thread Thread-0 is requiring to acquire lock
+Transfer from A to C
+Thread  is requiring to acquire lock
+Command: d 19
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: w 6
+Thread Thread-0 is requiring to acquire lock
+Withdraw by A
+Thread  is requiring to acquire lock
+Command: d 10
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: d 5
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: d 12
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: d 4
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: d 2
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: w 10
+Thread Thread-0 is requiring to acquire lock
+Withdraw by A
+Thread  is requiring to acquire lock
+Command: d 1
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: d 13
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: d 11
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: d 13
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: t 12 C
+Thread Thread-0 is requiring to acquire lock
+Transfer from A to C
+Thread  is requiring to acquire lock
+Command: d 3
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: t 15 C
+Thread Thread-0 is requiring to acquire lock
+Transfer from A to C
+Thread  is requiring to acquire lock
+Command: d 12
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: d 4
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: w 19
+Thread Thread-0 is requiring to acquire lock
+Withdraw by A
+Thread  is requiring to acquire lock
+Command: d 11
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: d 15
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: w 10
+Thread Thread-0 is requiring to acquire lock
+Withdraw by A
+Thread  is requiring to acquire lock
+Command: d 19
+Thread Thread-0 is requiring to acquire lock
+Deposit by A
+Thread  is requiring to acquire lock
+Command: i
+Thread Thread-0 is requiring to acquire lock
+Balance inquiry by A
+Thread  is requiring to acquire lock
+Command: d 5
+Thread Thread-1 is requiring to acquire lock
+Deposit by B
+Thread  is requiring to acquire lock
+Command: t 17 A
+Thread Thread-1 is requiring to acquire lock
+Transfer from B to A
+Thread  is requiring to acquire lock
+Command: d 8
+Thread Thread-1 is requiring to acquire lock
+Deposit by B
+Thread  is requiring to acquire lock
+Command: d 2
+Thread Thread-1 is requiring to acquire lock
+Deposit by B
+Thread  is requiring to acquire lock
+Command: d 18
+Thread Thread-1 is requiring to acquire lock
+Deposit by B
+Thread  is requiring to acquire lock
+Command: t 8 C
+Thread Thread-1 is requiring to acquire lock
+Transfer from B to C
+Thread  is requiring to acquire lock
+Command: t 10 C
+Thread Thread-1 is requiring to acquire lock
+Transfer from B to C
+Thread  is requiring to acquire lock
+Command: t 11 A
+Thread Thread-1 is requiring to acquire lock
+Transfer from B to A
+Thread  is requiring to acquire lock
+Command: t 12 C
+Thread Thread-1 is requiring to acquire lock
+Transfer from B to C
+Thread  is requiring to acquire lock
+Command: d 1
+Thread Thread-1 is requiring to acquire lock
+Deposit by B
+Thread  is requiring to acquire lock
+Command: t 3 C
+Thread Thread-1 is requiring to acquire lock
+Transfer from B to C
+Thread  is requiring to acquire lock
+Command: d 7
+Thread Thread-1 is requiring to acquire lock
+Deposit by B
+Thread  i

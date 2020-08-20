@@ -1,0 +1,130 @@
+Add 5
+Add success
+Transfer 17 to A
+Transfer success
+Add 8
+Add success
+Add 2
+Add success
+Add 18
+Add success
+Transfer 8 to C
+Transfer success
+Transfer 10 to C
+Transfer success
+Transfer 11 to A
+Transfer success
+Transfer 12 to C
+Transfer success
+Add 1
+Add success
+Transfer 3 to C
+Transfer success
+Add 7
+Add success
+Add 11
+Add success
+Subtract 8
+Subtract success
+Transfer 6 to A
+Transfer success
+Add 8
+Add success
+Add 6
+Add success
+Add 3
+Add success
+Transfer 10 to C
+Transfer success
+Add 18
+Add success
+Transfer 1 to C
+Transfer success
+Add 13
+Add success
+Transfer 10 to A
+Transfer success
+Add 19
+Add success
+Add 13
+Add success
+Transfer 13 to A
+Transfer success
+Add 3
+Add success
+Add 12
+Add success
+Add 11
+Add success
+Add 15
+Add success
+Subtract 4
+Subtract success
+Add 14
+Add success
+Transfer 8 to A
+Transfer success
+Add 17
+Add success
+Subtract 4
+Subtract success
+Add 17
+Add success
+Subtract 18
+Subtract success
+Add 18
+Add success
+Add 11
+Add success
+Subtract 11
+Subtract success
+Add 7
+Add success
+Transfer 18 to A
+Transfer success
+Add 17
+Add success
+Add 14
+Add success
+Subtract 12
+Subtract success
+Subtract 17
+Subtract success
+Transfer 10 to A
+Transfer success
+Add 14
+Add success
+Add 17
+Add success
+Transfer 18 to A
+Transfer success
+Add 5
+Add success
+Transfer 19 to A
+Transfer success
+Add 3
+Add success
+Transfer 12 to C
+Transfer success
+Subtract 2
+Subtract success
+Transfer 14 to C
+Transfer success
+Transfer 17 to C
+Transfer success
+Subtract 18
+Subtract success
+Subtract 1
+Subtract success
+Subtract 17
+Subtract success
+Add 9
+Add success
+Add 13
+Add success
+Transfer 10 to A
+Transfer success
+Add 11
+Add success
+Inquire balance
+Inquiry success, balance: 1077
